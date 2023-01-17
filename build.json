@@ -1,0 +1,10 @@
+{
+    "android": {
+        "release": {
+            "keystore": "ssschv.keystore",
+            "storePassword": "Sairam@2022",
+            "alias": "ssschv",
+            "password" : "Sairam@2022"
+        }
+    }
+}
